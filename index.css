@@ -1,0 +1,73 @@
+h1 {
+  color: rgb(3, 3, 159);
+  text-align: center;
+  font-size: 80px;
+  background-color: rgba(195, 160, 216, 0.637);
+  margin-top: 0mm;
+  padding: 10px;
+}
+h2 {
+  font-size: 320%;
+  color: rgb(5, 74, 225);
+}
+tr{
+  font-size: 18px;
+  line-height: 2;
+}
+h6 {
+  font-size: 12px;
+  color: rgba(255, 0, 0, 0.815);
+}
+input {
+  font-size: 15px;
+}
+select{
+  font-size: 16px;
+}
+nav a {
+  padding-left: 20px;
+  text-decoration: none;
+  color:blue;
+}
+a:visited {
+  color: rgb(97, 152, 14)
+}
+nav a:hover {
+  text-decoration: underline;
+}
+nav a:active {
+  color: rgb(193, 193, 5);
+}
+body {
+  background-color: rgba(135, 207, 235, 0.61);
+}
+.left {
+  display: inline-block;
+  position: absolute;
+}
+.mid {
+  text-align: center;
+}
+.right {
+  display: inline-block;
+  position: absolute;
+  right: 35px;
+  top: 300px;
+}
+.form{
+  padding-left: 580px;
+}
+.examlink {
+  margin: 40px;
+  position: absolute;
+  bottom: 365px;
+  text-decoration: none;
+  color: green;
+}
+.examlink:hover {
+  text-decoration: underline;
+  color: rgb(118, 42, 165);
+}
+.examlink:active {
+  color: yellow;
+}
